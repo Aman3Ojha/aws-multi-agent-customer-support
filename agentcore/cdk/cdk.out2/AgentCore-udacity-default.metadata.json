@@ -1,0 +1,149 @@
+{
+  "/AgentCore-udacity-default": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    },
+    {
+      "type": "aws:cdk:stack-tags",
+      "data": [
+        {
+          "key": "agentcore:project-name",
+          "value": "udacity"
+        },
+        {
+          "key": "agentcore:target-name",
+          "value": "default"
+        }
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/StackNameOutput": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "StackNameOutput"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "new AgentCoreStack (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\lib\\cdk-stack.js:195:9)",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:167:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/RuntimeIdOutput": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApplicationAgentAgentcoreRuntimeRuntimeIdOutput11AAB7A8"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new AgentCoreApplication in @aws\\agentcore-cdk...",
+        "new AgentCoreStack (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\lib\\cdk-stack.js:49:28)",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/RuntimeArnOutput": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApplicationAgentAgentcoreRuntimeRuntimeArnOutput82AE9F7C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new AgentCoreApplication in @aws\\agentcore-cdk...",
+        "new AgentCoreStack (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\lib\\cdk-stack.js:49:28)",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/RoleArnOutput": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApplicationAgentAgentcoreRuntimeRoleArnOutput1A532F46"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new AgentCoreApplication in @aws\\agentcore-cdk...",
+        "new AgentCoreStack (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\lib\\cdk-stack.js:49:28)",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/Runtime/MutableRoleExecutionRole": [
+    {
+      "type": "aws:cdk:analytics:construct",
+      "data": "*"
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/Runtime/ExecutionRole": [
+    {
+      "type": "aws:cdk:analytics:construct",
+      "data": "*"
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/Runtime/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApplicationAgentAgentcoreRuntimeA1A4FE7E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new AgentCoreApplication in @aws\\agentcore-cdk...",
+        "new AgentCoreStack (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\lib\\cdk-stack.js:49:28)",
+        "main (C:\\Users\\Aniruddha Ojha\\cd14764-aws-agentic-c3-classroom\\project\\starter\\agentcore\\cdk\\dist\\bin\\cdk.js:152:9)"
+      ]
+    }
+  ],
+  "/AgentCore-udacity-default/Application/AgentAgentcoreRuntime/CodeAsset/ZipAsset/AssetBucket": [
+    {
+      "type": "aws:cdk:analytics:construct",
+      "data": "*"
+    }
+  ]
+}

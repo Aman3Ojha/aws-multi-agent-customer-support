@@ -1,0 +1,36 @@
+{
+  "version": "54.0.0",
+  "files": {
+    "5ea5238152627a9924489ddeca6dcf6f5e21f09d5fccbc48fa0dee2598e1c7f8": {
+      "displayName": "Application/AgentAgentcoreRuntime/CodeAsset/ZipAsset",
+      "source": {
+        "path": "asset.5ea5238152627a9924489ddeca6dcf6f5e21f09d5fccbc48fa0dee2598e1c7f8.zip",
+        "packaging": "file"
+      },
+      "destinations": {
+        "008587153360-us-east-1-3e91472e": {
+          "bucketName": "cdk-hnb659fds-assets-008587153360-us-east-1",
+          "objectKey": "5ea5238152627a9924489ddeca6dcf6f5e21f09d5fccbc48fa0dee2598e1c7f8.zip",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::008587153360:role/cdk-hnb659fds-file-publishing-role-008587153360-us-east-1"
+        }
+      }
+    },
+    "9590a8dbf3eb6de4472540a0c7ab5d396f410c3d4900b80fc9e083fab4585e84": {
+      "displayName": "AgentCore-udacity-default Template",
+      "source": {
+        "path": "AgentCore-udacity-default.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "008587153360-us-east-1-00cdf10d": {
+          "bucketName": "cdk-hnb659fds-assets-008587153360-us-east-1",
+          "objectKey": "9590a8dbf3eb6de4472540a0c7ab5d396f410c3d4900b80fc9e083fab4585e84.json",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::008587153360:role/cdk-hnb659fds-file-publishing-role-008587153360-us-east-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}
